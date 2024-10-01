@@ -1,4 +1,4 @@
-# time-sheet
+# Time-sheet
 
 ## Summary
 
