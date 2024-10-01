@@ -1,0 +1,121 @@
+.timeSheet .d-flex-header{
+    display: flex;
+    align-items: right;
+    margin: 20px 0;
+}
+
+.Card {
+    border: 1px solid #e1e1e1;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    box-shadow: 10px 10px 10px #c3c3c34d;
+}
+
+.Add-Project {
+    text-align: right;
+    top: 10px;
+    display: block;
+}
+
+.Time-Title {
+    font-size: 28px;
+    font-weight: 700;
+    width: 100%;
+    margin: 0;
+    color: #006eb5;
+}
+
+.Submit-Details {
+    display: flex;
+    padding: 12px;
+}
+
+.Cancel-Details {
+    display: flex;
+    padding: 12px;
+}
+
+.icon-234 {
+    font-size: 16px;
+    /* margin: 0px 4px; */
+    height: 16px;
+    line-height: 16px;
+    text-align: center;
+    flex-shrink: 0;
+}
+
+.Date-Icon {
+    border: black;
+    background-color: #DBE9FA;
+    color: #33a4dc;
+    border-radius: 14px;
+    padding: 10px 10px;
+    text-align: center;
+    margin-right: 12px;
+    margin-left: 13px;
+}
+
+.icon {
+    background-color: #DBE9FA;
+    color: #33a4dc;
+    border-radius: 14px;
+    padding: 10px 10px;
+    text-align: center;
+    margin-right: 12px;
+    margin-left: 13px;
+}
+
+.People-Icon {
+    background-color: #DBE9FA;
+    color: #33a4dc;
+    border-radius: 14px;
+    padding: 10px;
+    text-align: center;
+    margin-right: 12px;
+    margin-left: 13px;
+}
+
+.card-Choice p{
+    margin-right: 12px;
+    font-weight: 10px;
+}
+
+.card-AssignTo {
+    margin-bottom: 26px;
+}
+
+/* .modified {
+    margin: 16px;
+    margin-right: 15px;
+}
+
+.modified p {
+    margin-top: 5px;
+    margin-right: 12px;
+} */
+
+
+.E-Icon {
+    margin-left: 160px;
+    cursor: pointer;
+    margin-top: -29px;
+}
+
+.D-Icon {
+    margin-left: 190px;
+    cursor: pointer;
+    margin-top: -17px;
+}
+
+.Update-TimeSheet {
+    display: flex;
+    padding: 12px;
+}
+
+.Cancel-Update-TimeSheet {
+    display: flex;
+    padding: 12px;
+    margin-right: 5px
+}

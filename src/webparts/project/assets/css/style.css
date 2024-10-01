@@ -1,0 +1,47 @@
+.project .d-flex-header{
+    display: flex;
+    align-items: right;
+    margin: 20px 0;
+}
+
+.Title {
+    font-size: 28px;
+    font-weight: 700;
+    width: 100%;
+    margin: 0;
+    color: #006eb5;
+}
+
+.Add-Project {
+    text-align: right;
+    top: 10px;
+    display: block;
+}
+
+.Add-Form {
+    float: center;
+}
+
+.Submit-button {
+    margin-left: 439px;
+}
+
+.cancel-Icon{
+    float: right;
+    cursor: pointer;
+    width: max-content;
+}
+
+.Cancel-button {
+    margin-left: -17px;
+}
+
+.ms-Button--primary{
+    border-radius: 4px;
+    margin: 0 10px;
+    background-color: #33a4dc;
+}
+
+.ms-Button--default {
+  border-radius: 4px;
+}
